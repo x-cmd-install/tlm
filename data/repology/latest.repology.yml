@@ -1,0 +1,52 @@
+- repo: aur
+  srcname: tlm
+  binname: tlm
+  visiblename: tlm
+  version: "1.2"
+  origversion: 1.2-1
+  status: newest
+  summary: Local CLI Copilot, powered by Ollama.
+  maintainers:
+    - matth@aur
+  licenses:
+    - Apache-2.0
+- repo: altsisyphus
+  srcname: tlm
+  binnames:
+    - tlm
+    - tlm-debuginfo
+  visiblename: tlm
+  version: "1.2"
+  origversion: 1.2-alt1
+  status: newest
+  summary: Local CLI Copilot, powered by CodeLLaMa
+  maintainers:
+    - zerospirit@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Terminals
+- repo: aur
+  srcname: tlm-bin
+  binname: tlm-bin
+  visiblename: tlm-bin
+  version: "1.2"
+  origversion: 1.2-2
+  status: newest
+  summary: Local CLI Copilot, powered by Ollama.
+  maintainers:
+    - icealtria@aur
+  licenses:
+    - Apache-2.0
+- repo: freebsd
+  srcname: misc/tlm
+  binname: tlm
+  visiblename: misc/tlm
+  version: "1.2"
+  origversion: "1.2_12"
+  status: newest
+  summary: Local CLI Copilot, powered by Ollama
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - misc
