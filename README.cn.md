@@ -4,7 +4,7 @@
 
 Local CLI Copilot, powered by Ollama. 💻🦙
 
-![tlm](https://repo.x-cmd.io/tlm.svg)
+![tlm](https://repo.x-cmd.io/tlm.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,21 @@ x install tlm
 - **最新版本**: `1.2` (2025-02-11)
 - **最近提交**: 2026-02-22
 - **Release 含资产**: 6 个
-- **发布时间**: 2025-02-11T23:07:55Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tlm_1.2_darwin_amd64](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_darwin_amd64) | 14.1 MiB | `native/darwin/x64` |
+| [tlm_1.2_darwin_arm64](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_darwin_arm64) | 13.6 MiB | `native/darwin/arm64` |
+| [tlm_1.2_linux_amd64](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_linux_amd64) | 14.0 MiB | `native/linux/x64` |
+| [tlm_1.2_linux_arm64](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_linux_arm64) | 13.4 MiB | `native/linux/arm64` |
+| [tlm_1.2_windows_amd64.exe](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_windows_amd64.exe) | 14.4 MiB | `native/win/x64` |
+| [tlm_1.2_windows_arm64.exe](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_windows_arm64.exe) | 13.6 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 1,489 · **Fork**: 54 · **开放 issue**: 22 · **贡献者**: 8
+- **Star**: 1,488 · **Fork**: 54 · **开放 issue**: 22 · **贡献者**: 8
 
 ## 累计统计
 
@@ -38,7 +48,7 @@ x install tlm
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 2 | 0 | 1 | 1 |
+| 360d | 2025-09-15 | 0 | 1 | 2 | 0 | 1 | 0 |
 
 ## 代码规模
 
@@ -61,4 +71,4 @@ tlm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:54:15Z._
