@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14753760,
       "digest": null,
-      "download_count": 41,
+      "download_count": 42,
       "created_at": "2025-02-11T23:07:01Z",
       "updated_at": "2025-02-11T23:07:06Z",
       "browser_download_url": "https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14217170,
       "digest": null,
-      "download_count": 208,
+      "download_count": 209,
       "created_at": "2025-02-11T23:07:06Z",
       "updated_at": "2025-02-11T23:07:11Z",
       "browser_download_url": "https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14704359,
       "digest": null,
-      "download_count": 548,
+      "download_count": 550,
       "created_at": "2025-02-11T23:07:11Z",
       "updated_at": "2025-02-11T23:07:16Z",
       "browser_download_url": "https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_linux_amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14080297,
       "digest": null,
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2025-02-11T23:07:16Z",
       "updated_at": "2025-02-11T23:07:22Z",
       "browser_download_url": "https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_linux_arm64"
