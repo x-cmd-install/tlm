@@ -47,12 +47,12 @@ Total: **1,953** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 0 | 1 | 2 | 0 | 1 | 1 |
-| last720d | 2024-09-23 | 2 | 6 | 4 | 3 | 2 | 58 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 0 | 1 | 2 | 0 | 1 | 1 |
+| last720d | 2024-09-24 | 2 | 6 | 4 | 3 | 2 | 58 |
 
 ## Release assets
 
@@ -65,10 +65,6 @@ Total: **1,953** lines of code across **47** files in the top 5 languages.
 | [tlm_1.2_windows_amd64.exe](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_windows_amd64.exe) | 14.4 MiB | `native/win/x64` |
 | [tlm_1.2_windows_arm64.exe](https://github.com/yusufcanb/tlm/releases/download/1.2/tlm_1.2_windows_arm64.exe) | 13.6 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/tlm). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for tlm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tlm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +74,4 @@ Install metadata for tlm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:43:33Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:44:54Z._
