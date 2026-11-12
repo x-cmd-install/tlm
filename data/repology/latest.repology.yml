@@ -43,7 +43,7 @@
   binname: tlm
   visiblename: misc/tlm
   version: "1.2"
-  origversion: "1.2_14"
+  origversion: "1.2_15"
   status: newest
   summary: Local CLI Copilot, powered by Ollama
   maintainers:
